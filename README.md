@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timthehelopilot
+- 👋 Hi, I’m Tim!
 - 👀 I’m interested in ... Learning new technologies 
 - 🌱 I’m currently learning ... Server Swift
 - 💞️ I’m looking to collaborate on ... Any cool projects out there.
